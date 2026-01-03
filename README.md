@@ -1,5 +1,12 @@
 # The repo1_HDL-Projects 
-  Hello to to you and welcome to my repo1_HDL-Projects, In this repo is for practicing my HDL coding skills. repo1 focuses on verilog HDL.
+Hello to to you and welcome to my repo1_HDL-Projects, this repo contains HDL Projects i have done using Verilog HDL.
+`
+`
+**Note:** The Projects in this repo follow my design keen on scalability and reusablility.
+___
 
-    
-  **Note:** The Projects in this repo follow my design keen on scalability and reusablility.
+## Projects List:
+
+**Name of the Project** | **Status of the Project**
+---|---
+i) awdaw | working
