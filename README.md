@@ -11,8 +11,8 @@ ___
 
 - Projects of interest can be included in your design, follow:
   - i) clone this repo on your work machine.
-  - ii) `include design-file-name
-    (in case of an error, try including the full path to the design file: /root_folder/parent_folder/design-file)
+  - ii) ``` `include design-file-name ```
+      (in case of an error, try including the full path to the design file: /root_folder/parent_folder/design-file)
 
 - Each project 
   - is made following RTL-Guidelines (avoiding inferring latches, fully synthesizable )
