@@ -11,7 +11,8 @@ ___
 
 - Projects of interest can be included in your design, follow:
   - i) clone this repo on your work machine.
-  - ii) `include design-file-name (in case of an error, try including the full path to the design file: /root_folder/parent_folder/design.v(or .sv))
+  - ii) `include design-file-name
+    (in case of an error, try including the full path to the design file: /root_folder/parent_folder/design-file)
 
 - Each project 
   - is made following RTL-Guidelines (avoiding inferring latches, fully synthesizable )
@@ -31,6 +32,5 @@ i) testing column 1 | testing column 2 | testing column 3
 
 ___
 ## License
-this repo is under the Apache License, Version 2.0 (SPDX ID: Apache-2.0). 
-.
+This repo is under the Apache License, Version 2.0 (SPDX ID: Apache-2.0).
 Anyone is free to use/include the code in this repo, but keep the LICENSE and NOTICE files as they are.
